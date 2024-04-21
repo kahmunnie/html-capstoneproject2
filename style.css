@@ -1,0 +1,17 @@
+.gradient-background {
+    background: linear-gradient(45deg, #4cb6b6, #57f6da, #86f9e4, #acf9e3,#fff);
+}
+
+#hobbies {
+    background-color: #E1FFFA;
+    padding: 5rem;
+}
+
+
+.img-hobbies {
+    border-radius: 15px;
+}
+
+figcaption {
+    font-weight: bold;
+}
